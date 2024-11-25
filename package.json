@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxtjs/sitemap": "^5.1.0",
+    "@vueuse/motion": "^2.1.0",
+    "chart.js": "^4.4.6",
+    "dexie": "^4.0.10",
+    "nuxt": "^3.10.3",
+    "nuxt-jsonld": "^2.0.8",
+    "vue": "^3.4.19",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@nuxt/image": "^1.4.0",
+    "@nuxtjs/tailwindcss": "^6.11.4",
+    "daisyui": "^4.7.2"
+  }
+}
