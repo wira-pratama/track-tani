@@ -2,7 +2,7 @@
 useHead({
     title: 'TrackTani - Aplikasi Tracking Pangan Terdesentralisasi',
     link: [
-        { rel: 'canonical', href: 'https://sbcshooters.com' }
+        { rel: 'canonical', href: 'https://track-tani.web.app' }
     ],
     meta: [
       { charset: 'utf-8' },
@@ -15,7 +15,7 @@ useHead({
       // Open Graph Meta Tags
       { property: 'og:title', content: 'TrackTani: Aplikasi Tracking Pangan Terdesentralisasi' },
       { property: 'og:description', content: 'Monitor rantai pasok pangan dengan aplikasi TrackTani yang terdesentralisasi, memberikan transparansi dan efisiensi untuk semua pihak.' },
-      { property: 'og:url', content: 'https://tracktani.com' },
+      { property: 'og:url', content: 'https://track-tani.web.app' },
       { property: 'og:type', content: 'website' },
 
       // Twitter Meta Tags
@@ -27,6 +27,8 @@ useHead({
         lang: 'id' 
     },
 });
+
+
 </script>
 <template>
     <!-- <AppHeader /> -->
@@ -69,7 +71,7 @@ useHead({
         >
             <h2 
                 class="
-                    text-2xl md:text-6xl text-primary text-left font-medium font-primary leading-2 tracking-wide max-w-6xl 
+                    text-2xl md:text-6xl text-black text-left font-medium font-primary leading-2 tracking-wide max-w-6xl 
                 "
             >
                 What Makes Us Different?<span class="text-accent">.</span>
@@ -103,7 +105,7 @@ useHead({
         >
             <h2 
                 class="
-                    text-2xl md:text-6xl text-primary text-left font-medium font-primary leading-2 tracking-wide max-w-6xl 
+                    text-2xl md:text-6xl text-black text-left font-medium font-primary leading-2 tracking-wide max-w-6xl 
                 "
             >
                 How Do We Conduct Business?<span class="text-accent">.</span>

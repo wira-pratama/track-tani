@@ -13,7 +13,7 @@
     "@nuxtjs/sitemap": "^5.1.0",
     "@vueuse/motion": "^2.1.0",
     "chart.js": "^4.4.6",
-    "dexie": "^4.0.10",
+    "dexie": "^4.1.0-alpha.23",
     "nuxt": "^3.10.3",
     "nuxt-jsonld": "^2.0.8",
     "vue": "^3.4.19",
